@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Van Hipp
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -10,18 +10,14 @@ learnMoreButton:
   link: /about/
   label: Read More
 subheader: Client's Subtitle
-pageSlug: /
 featuredImage:
   src: /img/businessbuildings.jpg
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Van Hipp has served as chairman of American Defense
+  International, Inc. (ADI) since the mid-1990s.
 published: true
-profileButton:
-  link: /profile
-  label: About
 blogButton:
   link: /blog
   label: Blog
@@ -29,7 +25,11 @@ shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
   achieve sound business growth.
+pageSlug: /
 schemaType: WebPage
+profileButton:
+  link: /profile
+  label: About
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+[Van Hipp](https://www.crunchbase.com/person/van-hipp-4aca) has served as chairman of American Defense International, Inc. (ADI) since the mid-1990s, providing strategic consulting in government relations, business development, and technology marketing across the security, defense, energy, and health care sectors.
