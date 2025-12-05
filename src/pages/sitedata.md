@@ -33,7 +33,7 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
-location: Washington, DC, USA
+location: Alexandria, VA, USA
 fallbackImage: /img/pic-executive-main-banner-01.webp
 jobTitle: Defense and Security Consulting
 siteAnalytics: null
