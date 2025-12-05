@@ -3,14 +3,13 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Van Hipp has served as chairman of American Defense
+  International, Inc. (ADI) since the mid-1990s.
 published: true
 schemaType: WebPage
 header: Blog
 featuredImage:
-  src: /img/blogginghero.png
+  src: /img/businesshero2.png
   alt: Blog
   caption: null
 profileButton:
