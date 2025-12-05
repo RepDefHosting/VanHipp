@@ -1,24 +1,22 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Van Hipp
 profileImage:
-  src: ""
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/van-hipp.jpg
+  alt: Van Hipp's headshot
+siteUrl: https://aboutvanhipp.com
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://x.com/vanhipp
     label: Visit
     show: true
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/vanhipp
     label: Visit
     show: true
   pinterest:
@@ -35,6 +33,8 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
+location: Washington, DC, USA
 fallbackImage: /img/pic-executive-main-banner-01.webp
+jobTitle: Defense and Security Consulting
 siteAnalytics: null
 ---
