@@ -35,6 +35,6 @@ themeOptions:
   showThemeSwitcher: false
 location: Alexandria, VA, USA
 fallbackImage: /img/pic-executive-main-banner-01.webp
-jobTitle: Defense and Security Consulting
+jobTitle: Washington, DC, Defense and Security Consulting Services
 siteAnalytics: null
 ---
